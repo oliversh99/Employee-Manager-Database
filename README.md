@@ -1,5 +1,9 @@
 # Employee-Manager-Database
 
+## Screenshot for the application
+
+![Screenshot](./Assets/screenshot.png)
+
 # User Story
 I want make this app to help a business owner or managers to manage and view all employee information,roles and show all departments in there company and its give them ability to add and delet employee,roles and departments so it will be very helpfull to orgnaize the business.
 
