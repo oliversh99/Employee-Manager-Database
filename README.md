@@ -4,6 +4,7 @@
 
 <img src ="Assets\Screenshot.png" width="850" height="400">
 
+[![Watch the video]](https://drive.google.com/file/d/1JzDOUmZEfBCQBAS2BNnRzX7phmV_5n-S/view?usp=sharing)
 # User Story
 I want make this app to help a business owner or managers to manage and view all employee information,roles and show all departments in there company and its give them ability to add and delet employee,roles and departments so it will be very helpfull to orgnaize the business.
 
@@ -21,7 +22,7 @@ follow this to install
 
 # Description
 this the linke to app to follow 
-- Video link:
+- Video link:https://drive.google.com/file/d/1JzDOUmZEfBCQBAS2BNnRzX7phmV_5n-S/view?usp=sharing
 - Deployed URL:
 - Github URL:https://github.com/oliversh99/Employee-Manager-Database
 
